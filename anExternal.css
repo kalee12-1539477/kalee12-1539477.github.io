@@ -1,0 +1,47 @@
+#cat {
+  margin: 20px;
+}
+#center {
+  border: 5px dotted blue;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+}
+
+#container {
+  position: relative;
+  width: 858px;
+  height: 724px;
+}
+
+div {
+  overflow: hidden;
+}
+
+#dog {
+  float: right;
+}
+
+#dog, #pig {
+  height: 50px;
+  width: 50px;
+}
+
+#pig {
+  float: left;
+}
+
+#one {
+  font-family: Quicksand, sans-serif;
+}
+
+p {
+  border: 5px solid rebeccapurple;
+  border-radius: 5px;
+  clear: right;
+  text-align: center;
+}
+
+#two {
+  font-family: "Times New Roman", serif;
+}
