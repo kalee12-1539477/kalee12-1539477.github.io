@@ -9,9 +9,9 @@
 }
 
 #container {
+  height: 724px;
   position: relative;
   width: 858px;
-  height: 724px;
 }
 
 div {
@@ -27,10 +27,6 @@ div {
   width: 50px;
 }
 
-#pig {
-  float: left;
-}
-
 #one {
   font-family: Quicksand, sans-serif;
 }
@@ -40,6 +36,10 @@ p {
   border-radius: 5px;
   clear: right;
   text-align: center;
+}
+
+#pig {
+  float: left;
 }
 
 #two {
